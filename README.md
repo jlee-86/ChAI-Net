@@ -36,7 +36,7 @@ The software has been tested on:
   
 ### Hardware
 - **Required non-standard hardware:** None for the demo (runs on CPU). / A CUDA-capable NVIDIA GPU is required for training.
-- **Tested on:** Intel Xeon Gold 6148 CPU @ 2.40 GHz (40 CPUs), 691 GB RAM, NVIDIA A30 GPU (24 GB)
+- **ChAI-Net analysis code tested on:** Intel Xeon Gold 6148 CPU @ 2.40 GHz (40 CPUs), 691 GB RAM
 
 ---
 
