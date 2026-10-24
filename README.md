@@ -10,9 +10,7 @@ Pre-print link awaiting...
 1. [System requirements](#1-system-requirements)
 2. [Installation guide](#2-installation-guide)
 3. [Demo](#3-demo)
-4. [Instructions for use](#4-instructions-for-use)
-5. [Reproduction instructions (optional)](#5-reproduction-instructions-optional)
-6. [Citation and license](#6-citation-and-license)
+4. [Citation and license](#6-citation-and-license)
 
 ---
 
@@ -73,7 +71,7 @@ A small example dataset along with a Jupyter notebook is provided in `demo/` to 
 
 ---
 
-## 6. Citation and license
+## 4. Citation and license
 
 If you use this software, please cite:
 
