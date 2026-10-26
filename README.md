@@ -60,14 +60,14 @@ conda activate ChAINet_anlaysis
 Model weights are located in /models/.
 
 ### Typical install time
-Approximately [10 minutes] on a normal desktop computer  
+Approximately 10 minutes on a normal desktop computer  
 
 ---
 
 ## 3. Demo
 
 ### Make a prediction 
-A small example dataset along with a Jupyter notebook is provided in `demo/` to make a prediction and compare with the target map. 
+A Jupyter notebook is provided in `demo/` to make predictions with ChAI-Net and the average accessibility model. 
 
 ---
 
