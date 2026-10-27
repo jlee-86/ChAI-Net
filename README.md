@@ -53,8 +53,16 @@ cd ChAI-Net
 conda env create -f ChAINet_anlaysis.yml # or training environment ChAINet_training.yml
 conda activate ChAINet_anlaysis
 # 
-
-
+# 3. ChAI-Net uses Install Basenji in home directory.
+cd ~/
+git clone https://github.com/calico/basenji.git
+cd basenji/
+python setup.py develop --no-deps
+export BASENJIDIR=~/basenji
+export PATH=$BASENJIDIR/bin:$PATH
+export PYTHONPATH=$BASENJIDIR/bin:$PYTHONPATH
+# If downloading the Basenji repo in a directory other than home (~), adjust the path in the export command accordingly.
+#
 ```
 
 Model weights are located in /models/.
